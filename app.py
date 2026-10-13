@@ -138,4 +138,4 @@ else:
     st.write("1. Train on a public intrusion-detection dataset.\n2. Add CSV upload and data cleaning.\n3. Store decision history.\n4. Compare multiple ML models.\n5. Test responses in an isolated lab.")
 
 st.divider()
-st.markdown('<p style="text-align:center;color:#7f93ab;font-size:12px">SENTINEL AI · Educational prototype · Single-agent demo</p>',unsafe_allow_html=True)
+# Footer tagline removed as requested.
